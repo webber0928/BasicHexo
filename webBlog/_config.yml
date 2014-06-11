@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-email:
-language:
+title: I'm Webber
+subtitle: 白色的明天在等著我們
+description: 一個陽光男孩的分享空間
+author: Webber Doe
+email: bird23074035@gmail.com
+language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://cc.woodstock.ml
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
