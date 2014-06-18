@@ -12,11 +12,11 @@ fancybox: false #原本是true @webber
 # Sidebar
 sidebar: right
 widgets:
+- recent_posts
 - category
-- tag
+#- tag
 - tagcloud
 - archive
-- recent_posts
 
 # Miscellaneous
 google_analytics:
